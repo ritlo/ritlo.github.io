@@ -129,7 +129,7 @@ content:
         Personal Server - [Jellyfin](https://tv.ritlo.ml), [NextCloud](https://nas.ritlo.ml), NVIDIA GameStream, RDP, VNC.
 
 # Footer
-footer_show_references: true
+footer_show_references: false
 # references_title: References on request (Override references text)
 
 # Build settings
