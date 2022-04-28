@@ -89,7 +89,7 @@ content:
 
           In its current form the program is written in Java and using a motion sensor is able to maintain a database of the number of customers visiting each store location. The collected data may be viewed depending on whether the currently logged in account has the required authorization. The program also  dynamically changes to a smartphone based security system during closing hours.
 
-          I intend to continue work on the project to allow it to collect other types of customer demographic information and also analyze the collected data to suggest decision that the business can take to increase profits.
+          I intend to continue work on the project to allow it to collect other types of customer demographic information and also analyze the collected data to suggest decisions that the business can take to increase profits.
           
   # - title: Experience # Title for the section
   #   layout: list # Type of content section (list/text)
