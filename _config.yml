@@ -57,16 +57,13 @@ content:
     layout: list # Type of content section (list/text)
     content:
       - layout: top-middle
-        title: Internet Enabled Fire Alarm
-        # link: github.com/ritlo
-        # # link_text: Project Website
-        # additional_links:
-        #   - title:  ritlo
-        #     icon: fab fa-github
-        #     url: github.com/ritlo
-          # - title:  Github page for project (eg. sproogen/modern-resume-theme)
-          #   icon: fab fa-github
-          #   url: Link to project (eg. sproogen.github.io/modern-resume-theme)
+        title: IoT Android Fire Alarm
+        link: github.com/ritlo/iot-firealarm
+        link_text: Project Repo
+        additional_links:
+          - title:  ritlo
+            icon: fab fa-github
+            url: github.com/ritlo/iot-firealarm
         quote: >
           Within seconds of detecting a flame, a signal is sent to all registered Android devices via the Internet. 
         description: | # this will include new lines to allow paragraphs
