@@ -42,13 +42,13 @@ linkedin_username: ritlo
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
 # gtag: "UA-00000000-0"
-# google_analytics: "UA-00000000-0"
+google_analytics: "G-Q3KLX0D4KX"
 
 # About Section
 about_title: About Me
 about_profile_image: images/profile.png
 about_content: | # this will include new lines to allow paragraphs
-  Hi, I'm Ritvick and I'm currently a Third Year Undergraduate Student at Delhi Technological University, majoring in Electronics and Communications Engineering. From a young age I have been fascinated by computers and software. My main interests are in Software Development and the Internet of Things.
+  Hi, I'm Ritvick and I'm currently an Undergraduate Senior Student at Delhi Technological University, majoring in Electronics and Communications Engineering. From a young age I have been fascinated by computers and software. My main interests are in Software Development, Web Development and the Internet of Things.
 
   
 
