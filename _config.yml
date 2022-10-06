@@ -42,7 +42,7 @@ linkedin_username: ritlo
 # Using more than one of these may cause issues with reporting
 # gtm: "GTM-0000000"
 # gtag: "UA-00000000-0"
-google_analytics: "G-Q3KLX0D4KX"
+# google_analytics: "G-Q3KLX0D4KX"
 
 # About Section
 about_title: About Me
