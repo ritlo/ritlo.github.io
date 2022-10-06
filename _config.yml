@@ -1,8 +1,6 @@
 # Site
 repository: ritlo/ritlo.github.io
 favicon: images/favicon.ico
-include: 
-  - _layouts/head.html
 # Content configuration version
 version: 2
 
